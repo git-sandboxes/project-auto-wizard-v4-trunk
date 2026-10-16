@@ -1,13 +1,31 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-16T05:03:00Z",
-    "currentVersion": "0.0.2",
+    "lastUpdated": "2026-10-16T05:03:49Z",
+    "currentVersion": "0.1.0",
     "projectTypes": [
       "node"
     ],
-    "totalReleases": 1
+    "totalReleases": 2
   },
   "releases": [
+    {
+      "version": "0.1.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-16",
+      "pr_number": null,
+      "raw_summary": "### ✨ 기능\n- trunk 인사 출력",
+      "parsed_changes": {
+        "feat": {
+          "title": "✨ 기능",
+          "items": [
+            "trunk 인사 출력"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "0.0.2",
       "project_types": [
