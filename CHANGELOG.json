@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-10-16T05:03:00Z",
+    "currentVersion": "0.0.2",
+    "projectTypes": [
+      "node"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "0.0.2",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-16",
+      "pr_number": null,
+      "raw_summary": "### 🔧 변경사항\n- project-auto-wizard 0.17.0 설치 (trunk, ko)",
+      "parsed_changes": {
+        "changes": {
+          "title": "🔧 변경사항",
+          "items": [
+            "project-auto-wizard 0.17.0 설치 (trunk, ko)"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
